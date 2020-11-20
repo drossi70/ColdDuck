@@ -4,6 +4,8 @@ Beta v0.2
 
 ... beautiful documentation for your ColdFusion classes by leveraging [ColdDoc](https://github.com/markmandel/ColdDoc) and [JSDuck](https://github.com/senchalabs/jsduck). 
 
+## Update - Try to update this component for reuse ... this is a ToDo
+
 ## Background
 I have been a consumer of the Sencha ExtJS documentation for a while now and wanted to be able to use JSDuck for my ColdFusion CFCs. But how? While I am a JSDuck novice I figured that trying to make JSDuck produce documentation directly from ColdFusion CFCs was likely to result in tears (mine!). So, after some thought, I came up with another strategy that users of other programming languages might want to consider.
 
